@@ -12,8 +12,8 @@ arithmatics are done in 2's complements also there is support for characters rep
 
 given an assembly code file generate three files
 *.ob - containing the memory image of the machine code with two parts seperated with a space: 
- 1.the address of the word in memory written in decimal (4 numbers ) with leading zeros 
- 1.the contents of the word or instructionsin in octal (5 numbers ) 
+ 1. the address of the word in memory written in decimal (4 numbers ) with leading zeros 
+ 1. the contents of the word or instructionsin in octal (5 numbers ) 
 *.ext - containing the external labels and their corresponding addrresses in decimal 
 *.entry - containing the enternal labels and their corresponding addrresses in decimal
 
